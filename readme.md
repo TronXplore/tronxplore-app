@@ -3,11 +3,18 @@
 **TronXplore** is an interactive, gamified learning platform designed to help users explore and understand the Tron blockchain. The platform guides newcomers through hands-on tasks, providing practical experience in key concepts like energy, bandwidth, TRC-20 token creation, and more. Our goal is to make learning about the Tron ecosystem engaging, accessible, and enjoyable, driving broader adoption of the Tron blockchain.
 
 ## Table of Contents
+- [Credits](#Credits)
 - [Overview](#overview)
 - [Features](#features)
 - [How it works](#how-it-works)
 - [Tech Stack](#tech-stack)
 
+
+
+
+## Credits
+
+This projects builds upon [Skyoffice](https://github.com/kevinshen56714/SkyOffice.git),an open-source project licensed under the MIT License.
 
 
 ## Overview

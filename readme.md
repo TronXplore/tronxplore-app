@@ -2,12 +2,16 @@
 
 **TronXplore** is an interactive, gamified learning platform designed to help users explore and understand the Tron blockchain. The platform guides newcomers through hands-on tasks, providing practical experience in key concepts like energy, bandwidth, TRC-20 token creation, and more. Our goal is to make learning about the Tron ecosystem engaging, accessible, and enjoyable, driving broader adoption of the Tron blockchain.
 
+![tron ](https://github.com/user-attachments/assets/7d2b72de-a680-4fac-9f51-e06adbc8eabc)
+
+
 ## Table of Contents
 - [Credits](#Credits)
 - [Overview](#overview)
 - [Features](#features)
 - [How it works](#how-it-works)
 - [Tech Stack](#tech-stack)
+- [Demo Of Platform](#demo)
 
 
 
@@ -46,6 +50,31 @@ TronXplore is built to solve the problem of complex, abstract educational materi
 -   **Testnets:** Tron Shasta, Nile Testnets
 -   **WebSocket:** Real-time task updates and communication
 
+
+## Demo Of Platform
+
+1) **Loby to join**
+![tron2](https://github.com/user-attachments/assets/f55ae0df-1081-4b23-9431-3ac6408bbfe8)
+
+2) **Create your unique username**
+![tron3](https://github.com/user-attachments/assets/907f641f-5194-482b-a033-e213bd210e11)
+
+3) **Glowing points for task**
+![tron4](https://github.com/user-attachments/assets/e2b7b9ae-2d11-469b-80de-d313478c7b41)
+
+4) **Interaction with a task**
+![tron5](https://github.com/user-attachments/assets/25699935-282a-4846-baa8-29b397cceb54)
+
+5) **Sign transaction**
+![tron6](https://github.com/user-attachments/assets/cf2e9925-cae8-495a-ac27-cccfb5a235a2)
+
+6) **Mint TRC20 token**
+![tron7](https://github.com/user-attachments/assets/ad3adad9-8c86-4961-965a-97e49a7f8f5f)
+
+7) **Get your NFT certificate of task in your wallet**
+![tron9](https://github.com/user-attachments/assets/d4f6c93f-0784-4c71-909a-9b4be49757f2)
+
+8) **Leaderboard**
+![tron10](https://github.com/user-attachments/assets/d013e39d-70f1-43dc-b4e4-936d040fb551)
+
 -------------------------------------
-
-
